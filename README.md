@@ -10,7 +10,10 @@ v0.0.1
 
 # 扫码
 
-![here](pics/scan.jpg)
+![here](pics/scansmall.jpg)
+
+# 示例
+![here](pics/demo.jpg)
 
 # 介绍
 	- 小程序数据和RKI数据每日更新同步
